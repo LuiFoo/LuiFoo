@@ -1,5 +1,6 @@
 ## Oii! Eu sou o Luiz Guilherme
 
+## GitHub Stats ⚡
 <div>
   <a href="https://github.com/LuiFoo">
   <center>
