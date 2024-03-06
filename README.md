@@ -33,7 +33,7 @@
 ![Snake animation](https://github.com/Gabrielle-Ribeiro/Gabrielle-Ribeiro/blob/output/github-contribution-grid-snake.svg)
   
 <!--
-**Gabrielle-Ribeiro/Gabrielle-Ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LuiFoo/LuiFoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
