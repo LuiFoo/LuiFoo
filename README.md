@@ -1,10 +1,15 @@
-### ✨ Hi there, I'm Gabrielle! ✨
-- Software Engineering Student at the University of Brasilia - UnB.
-- Passionate about programming, machine learning, data science and robotics.
-- Member of a competition team, EDRA-UnB ❤️, which develops autonomous drones. In it I work mainly with computer vision.
-- Intern at Alura | Scuba Team Semente. 💙🚀
+### Oii! Eu sou o Luiz Guilherme
 
-## Languages e Tools 💻
+<div>
+  <a href="https://github.com/Gabrielle-Ribeiro">
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielle-Ribeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
+  </center>
+  <center>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielle-Ribeiro&layout=compact&langs_count=7&theme=radical"/> 
+  </center>
+</div>
+
 <div style="display: inline">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -17,16 +22,6 @@
   <img align="center" alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </div><br/>
 
-## GitHub Stats ⚡
-<div>
-  <a href="https://github.com/Gabrielle-Ribeiro">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielle-Ribeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielle-Ribeiro&layout=compact&langs_count=7&theme=radical"/> 
-  </center>
-</div>
 
 ## Reach me 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielleribeiro/)
