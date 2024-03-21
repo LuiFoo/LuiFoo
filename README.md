@@ -3,10 +3,10 @@
 <div>
   <a href="https://github.com/LuiFoo">
   <center>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=LuiFoo&show_icons=true&theme=prussian&include_all_commits=true&count_private=true" alt="centered image">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LuiFoo&show_icons=true&theme=prussian&include_all_commits=true&count_private=true" alt="centered image">
   </center>
   <center>  
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiFoo&layout=compact&langs_count=7&theme=prussian"/> 
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiFoo&layout=compact&langs_count=7&theme=prussian"/> 
   </center>
 </div>
 <div style="display: inline_block"><br>
