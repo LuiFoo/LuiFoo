@@ -30,6 +30,22 @@
   <a href="https://www.linkedin.com/in/louierotulo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+
+#### Academic education:
+In the overview below you will find my academic background:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="./src/assets/logo-faculdade.jpg"/>](https://estacio.br/)
+**Software Engineering** \
+[**Estácio**](https://estacio.br/) \
+06/2024 - At the moment.
+<br>
+<br>
+
+Please, contact me on [LinkedIn](https://www.linkedin.com/in/gui-tupinamba/) for a more detailed description of my work experience, education and certification.
+
+##
+
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
