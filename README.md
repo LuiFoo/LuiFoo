@@ -1,4 +1,4 @@
-## Oii! Eu sou o Luiz Guilherme
+## Hi! I'm Luiz Guilherme
 
 <div>
   <a href="https://github.com/LuiFoo">
