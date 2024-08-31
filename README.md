@@ -34,14 +34,14 @@
 #### Academic education:
 In the overview below you will find my academic background:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="./src/assets/logo-faculdade.jpg"/>](https://estacio.br/)
-**Software Engineering** \
-[**Estácio**](https://estacio.br/) \
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="./src/assets/logo-faculdade.jpg"/>](https://www.baraodemaua.br/)
+**Computational Science** \
+[**Estácio**](https://www.baraodemaua.br/) \
 06/2024 - At the moment.
 <br>
 <br>
 
-Please, contact me on [LinkedIn](https://www.linkedin.com/in/gui-tupinamba/) for a more detailed description of my work experience, education and certification.
+Please, contact me on [LinkedIn](https://www.linkedin.com/in/louierotulo/) for a more detailed description of my work experience, education and certification.
 
 ##
 
