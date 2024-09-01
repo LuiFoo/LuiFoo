@@ -1,7 +1,6 @@
 ## Hi! I'm Luiz Guilherme
 
 <div>
-  <a href="https://github.com/LuiFoo">
   <center>
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LuiFoo&show_icons=true&theme=prussian&include_all_commits=true&count_private=true" alt="centered image">
   </center>
