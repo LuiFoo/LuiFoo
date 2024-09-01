@@ -1,19 +1,9 @@
 a## Hi! I'm Luiz Guilherme
 
-<p align="center"> 
+<p align="left"> 
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LuiFoo&show_icons=true&theme=prussian&include_all_commits=true&count_private=true" alt="centered image">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiFoo&layout=compact&langs_count=7&theme=prussian"/> 
 </p>
-
-<div>
-  <a src="https://github.com/LuiFoo">
-  <center>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LuiFoo&show_icons=true&theme=prussian&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
-  <center>  
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiFoo&layout=compact&langs_count=7&theme=prussian"/> 
-  </center>
-</div>
 
 ##
 
