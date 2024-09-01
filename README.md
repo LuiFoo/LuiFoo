@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
 ## Hi! I'm Luiz Guilherme
 
 <div>
@@ -11,7 +9,9 @@
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiFoo&layout=compact&langs_count=7&theme=prussian"/> 
   </center>
 </div>
-    
+
+##
+
 #### Learning in the moment:
 <div>
   <img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>
@@ -22,6 +22,7 @@
   <img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=cpp"/>
 </div>
 
+##
 
 #### Contact me:
 [<img height="48px" width="48px" alt="Icone Linkedin" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/louierotulo/)
