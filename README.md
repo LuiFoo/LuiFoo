@@ -7,7 +7,7 @@
 
 ##
 
-#### Learning in the moment:
+#### Languages:
 
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://github.com/LuiFoo)
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://github.com/LuiFoo)
