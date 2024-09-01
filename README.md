@@ -2,6 +2,17 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ad6f&height=120&section=header"/>
 
+## GitHub Stats ⚡
+<div>
+  <a href="https://github.com/Gabrielle-Ribeiro">
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielle-Ribeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
+  </center>
+  <center>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielle-Ribeiro&layout=compact&langs_count=7&theme=radical"/> 
+  </center>
+</div>
+
 #### Languages:
 
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://github.com/LuiFoo)
