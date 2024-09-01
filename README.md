@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ad6f&height=120&section=header"/>
+
 ## Hi! I'm Luiz Guilherme
 
 <div align="left"> 
@@ -37,6 +39,8 @@ In the overview below you will find my academic background:
 Please, contact me on [LinkedIn](https://www.linkedin.com/in/louierotulo/) for a more detailed description of my work experience, education and certification.
 
 ##
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0b&height=120&section=footer"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
