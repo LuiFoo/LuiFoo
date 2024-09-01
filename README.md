@@ -1,9 +1,9 @@
 ## Hi! I'm Luiz Guilherme
 
-<a align="left" src="https://github.com/LuiFoo"> 
+<div align="left"> 
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LuiFoo&show_icons=true&theme=prussian&include_all_commits=true&count_private=true" alt="centered image">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiFoo&layout=compact&langs_count=7&theme=prussian"/> 
-</a>
+</div>
 
 ##
 
@@ -40,16 +40,7 @@ Please, contact me on [LinkedIn](https://www.linkedin.com/in/louierotulo/) for a
 
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
