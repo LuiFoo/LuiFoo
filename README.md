@@ -38,7 +38,6 @@ Please, contact me on [LinkedIn](https://www.linkedin.com/in/louierotulo/) for a
 
 ##
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
