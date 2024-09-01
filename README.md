@@ -1,20 +1,20 @@
 ## Hi! I'm Luiz Guilherme
 
-<div align="left"> 
+<a align="left" src="https://github.com/LuiFoo"> 
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LuiFoo&show_icons=true&theme=prussian&include_all_commits=true&count_private=true" alt="centered image">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiFoo&layout=compact&langs_count=7&theme=prussian"/> 
-</div>
+</a>
 
 ##
 
 #### Learning in the moment:
 
-  [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://github.com/LuiFoo)
-  [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://github.com/LuiFoo)
-  [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://github.com/LuiFoo)
-  [<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=py"/>](https://github.com/LuiFoo)
-  [<img height="48px" width="48px" alt="Icone Java C#" src="https://skillicons.dev/icons?i=cs"/>](https://github.com/LuiFoo)
-  [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=cpp"/>](https://github.com/LuiFoo)
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://github.com/LuiFoo)
+[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://github.com/LuiFoo)
+[<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://github.com/LuiFoo)
+[<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=py"/>](https://github.com/LuiFoo)
+[<img height="48px" width="48px" alt="Icone Java C#" src="https://skillicons.dev/icons?i=cs"/>](https://github.com/LuiFoo)
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=cpp"/>](https://github.com/LuiFoo)
 
 ##
 
