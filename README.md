@@ -11,12 +11,14 @@
 </div>
     
 #### Learning in the moment:
-<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>
-<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>
-<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>
-<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=py"/>
-<img height="48px" width="48px" alt="Icone Java C#" src="https://skillicons.dev/icons?i=cs"/>
-<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=cpp"/>
+<div>
+  <img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>
+  <img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>
+  <img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>
+  <img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=py"/>
+  <img height="48px" width="48px" alt="Icone Java C#" src="https://skillicons.dev/icons?i=cs"/>
+  <img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=cpp"/>
+</div>
 
 ##
  
