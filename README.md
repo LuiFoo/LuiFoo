@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ad6f&height=120&section=header"/>
 
-## GitHub Stats ⚡
+#### GitHub Stats ⚡
 <div>
   <a href="https://github.com/Gabrielle-Ribeiro">
   <center>
