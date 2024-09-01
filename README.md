@@ -2,13 +2,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ad6f&height=120&section=header"/>
 
-<div align="left"> 
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LuiFoo&show_icons=true&theme=prussian&include_all_commits=true&count_private=true" alt="centered image">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiFoo&layout=compact&langs_count=7&theme=prussian"/> 
-</div>
-
-##
-
 #### Languages:
 
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://github.com/LuiFoo)
