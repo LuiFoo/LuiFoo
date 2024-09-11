@@ -12,17 +12,15 @@
 
 <h2> SKILLS: </h2>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=js'></a>
+<a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=html'></a>
+<a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=css'></a>
+<a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=py'></a>
+<a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=cs'></a>
+<a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=cpp'></a>
+<a href='https://github.com/LuiFoo'><img width ='48px' src=''></a>
 
-[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://github.com/LuiFoo)
-[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://github.com/LuiFoo)
-[<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://github.com/LuiFoo)
-[<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=py"/>](https://github.com/LuiFoo)
-[<img height="48px" width="48px" alt="Icone Java C#" src="https://skillicons.dev/icons?i=cs"/>](https://github.com/LuiFoo)
-[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=cpp"/>](https://github.com/LuiFoo)
 
-##
-
-#### Contact me:
+<h2> Contact me: </h2>
 [<img height="48px" width="48px" alt="Icone Linkedin" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/louierotulo/)
 [<img height="48px" width="48px" alt="Icone Gmail" src="https://skillicons.dev/icons?i=gmail"/>](mailto:luizgrbt@gmail.com)
 
