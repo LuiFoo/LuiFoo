@@ -14,7 +14,6 @@
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=css'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=js'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=figma'></a>
-
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=py'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=cs'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=cpp'></a>
