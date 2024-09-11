@@ -23,7 +23,8 @@
 
 In the overview below you will find my academic background:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="./src/assets/logo-faculdade.png"/>](https://www.baraodemaua.br/)
+<a href='https://www.baraodemaua.br'><img align="left" height="94px" width="94px" alt="Warpnet" src='./src/assets/logo-faculdade.png'></a>
+
 **Computer Science** \
 [**Barão de Mauá**](https://www.baraodemaua.br/) \
 01/2024 - At the moment.
