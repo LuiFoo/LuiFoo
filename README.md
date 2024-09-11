@@ -1,6 +1,4 @@
-## Hi! I'm Luiz Guilherme
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ad6f&height=120&section=header"/>
+<h1> Hello < developers />, my name is Luiz Guilherme. </h1>
 
 <h2> GitHub Stats ⚡</h2>
 </br>
