@@ -1,5 +1,8 @@
 <h1> Hello < developers />, my name is Luiz Guilherme. </h1>
 
+<div size='20px'>Dreaming is the most effective way to plan for the future. Believing is the accurate way to make it happen. :smile: 
+</div>
+
 <h2> GitHub Stats ⚡</h2>
 </br>
 
