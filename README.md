@@ -10,13 +10,16 @@
 [![LuiFoo's github stats](https://github-readme-stats-mu-red-43.vercel.app/api?username=LuiFoo&count_private=true&show_icons=true&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228&custom_title=STATS)](https://github.com/LuiFoo)
 
 <h2> Skills: </h2>
-
-<a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=js'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=html'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=css'></a>
+<a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=js'></a>
+<a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=figma'></a>
+
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=py'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=cs'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=cpp'></a>
+
+<h2> Learning: </h2>
 <a href='https://github.com/LuiFoo'><img width ='48px' src=''></a>
 
 <h2> Academic education: </h2>
