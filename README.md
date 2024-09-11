@@ -19,11 +19,6 @@
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=cpp'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src=''></a>
 
-
-<h2> Contact me: </h2>
-<a href='https://www.linkedin.com/in/louierotulo'><img width ='48px' src='https://skillicons.dev/icons?i=linkedin'></a>
-<a href='mailto:luizgrbt@gmail.com'><img width ='48px' src='https://skillicons.dev/icons?i=gmail'></a>
-
 ##
 
 #### Academic education:
