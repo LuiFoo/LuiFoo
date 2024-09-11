@@ -19,7 +19,7 @@
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=cpp'></a>
 
 <h2> Learning: </h2>
-<a href='https://github.com/LuiFoo'><img width ='48px' src=''></a>
+<a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=ruby'></a>
 
 <h2> Academic education: </h2>
 
