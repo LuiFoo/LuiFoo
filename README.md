@@ -28,10 +28,9 @@ In the overview below you will find my academic background:
 **Computer Science** \
 [**Barão de Mauá**](https://www.baraodemaua.br/) \
 01/2024 - At the moment.
+<br>
 
 Please, contact me on [LinkedIn](https://www.linkedin.com/in/louierotulo/) for a more detailed description of my work experience, education and certification.
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0b&height=120&section=footer"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
