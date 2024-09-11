@@ -30,6 +30,7 @@ In the overview below you will find my academic background:
 01/2024 - At the moment.
 <br>
 <br>
+<br>
 
 Please, contact me on [LinkedIn](https://www.linkedin.com/in/louierotulo/) for a more detailed description of my work experience, education and certification.
 
