@@ -2,8 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ad6f&height=120&section=header"/>
 
-## GitHub Stats ⚡
-<h2>STATS:</h2>
+<h2> GitHub Stats ⚡</h2>
 </br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuiFoo&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=1124&exclude_days=Sun%2CSat&border_radius=8&border=1E2228)](https://github.com/LuiFoo)
