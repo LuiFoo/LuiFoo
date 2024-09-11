@@ -10,9 +10,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiFoo&layout=compact&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228)](https://github.com/LuiFoo)
 [![LuiFoo's github stats](https://github-readme-stats-mu-red-43.vercel.app/api?username=LuiFoo&count_private=true&show_icons=true&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228&custom_title=STATS)](https://github.com/LuiFoo)
 
-##
-
-#### Languages:
+<h2> SKILLS: </h2>
+<a href='https://github.com/LuiFoo'><img width ='40px' src='https://skillicons.dev/icons?i=js'></a>
 
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://github.com/LuiFoo)
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://github.com/LuiFoo)
