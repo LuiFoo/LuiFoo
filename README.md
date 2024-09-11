@@ -19,9 +19,7 @@
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=cpp'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src=''></a>
 
-##
-
-#### Academic education:
+<h2> Academic education: </h2>
 In the overview below you will find my academic background:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="./src/assets/logo-faculdade.png"/>](https://www.baraodemaua.br/)
