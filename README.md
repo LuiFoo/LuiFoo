@@ -3,15 +3,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ad6f&height=120&section=header"/>
 
 ## GitHub Stats ⚡
-<div>
-  <a href="https://github.com/LuiFoo">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuiFoo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiFoo&layout=compact&langs_count=7&theme=transparent"/> 
-  </center>
-</div>
+<h2>STATS:</h2>
+</br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuiFoo&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=1124&exclude_days=Sun%2CSat&border_radius=8&border=1E2228)](https://github.com/LuiFoo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiFoo&layout=compact&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228)](https://github.com/LuiFoo)
+[![LuiFoo's github stats](https://github-readme-stats-mu-red-43.vercel.app/api?username=LuiFoo&count_private=true&show_icons=true&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228&custom_title=STATS)](https://github.com/LuiFoo)
 
 ##
 
