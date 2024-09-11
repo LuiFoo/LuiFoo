@@ -4,12 +4,12 @@
 </div>
 
 <h2> GitHub Stats ⚡</h2>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuiFoo&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=1124&exclude_days=Sun%2CSat&border_radius=8&border=1E2228)](https://github.com/LuiFoo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiFoo&layout=compact&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228)](https://github.com/LuiFoo)
 [![LuiFoo's github stats](https://github-readme-stats-mu-red-43.vercel.app/api?username=LuiFoo&count_private=true&show_icons=true&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228&custom_title=STATS)](https://github.com/LuiFoo)
 
 <h2> Skills: </h2>
-</br>
 
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=js'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=html'></a>
