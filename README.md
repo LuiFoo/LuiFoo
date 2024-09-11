@@ -14,8 +14,6 @@
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=css'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=js'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=py'></a>
-<a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=cs'></a>
-<a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=cpp'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=figma'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=vscode'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=visualstudio'></a>
@@ -24,6 +22,8 @@
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=react'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=nodejs'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=ruby'></a>
+<a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=cs'></a>
+<a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=cpp'></a>
 
 <h2> Academic education: </h2>
 
