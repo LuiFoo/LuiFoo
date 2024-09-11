@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiFoo&layout=compact&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228)](https://github.com/LuiFoo)
 [![LuiFoo's github stats](https://github-readme-stats-mu-red-43.vercel.app/api?username=LuiFoo&count_private=true&show_icons=true&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228&custom_title=STATS)](https://github.com/LuiFoo)
 
-<h2> SKILLS: </h2>
+<h2> Skills: </h2>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=js'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=html'></a>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=css'></a>
@@ -21,8 +21,8 @@
 
 
 <h2> Contact me: </h2>
-[<img height="48px" width="48px" alt="Icone Linkedin" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/louierotulo/)
-[<img height="48px" width="48px" alt="Icone Gmail" src="https://skillicons.dev/icons?i=gmail"/>](mailto:luizgrbt@gmail.com)
+<a href='https://www.linkedin.com/in/louierotulo'><img width ='48px' src='https://skillicons.dev/icons?i=linkedin'></a>
+<a href='mailto:luizgrbt@gmail.com'><img width ='48px' src='https://skillicons.dev/icons?i=gmail'></a>
 
 ##
 
