@@ -11,7 +11,7 @@
 
 <h2> Skills: </h2>
 
-<a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=html,css,js,py,figma,vscode,visualstudio'></a>
+<a href='https://github.com/LuiFoo'><img height ='48px' src='https://skillicons.dev/icons?i=html,css,js,py,figma,vscode,visualstudio'></a>
 
 <h2> Learning: </h2>
 <a href='https://github.com/LuiFoo'><img width ='48px' src='https://skillicons.dev/icons?i=react'></a>
