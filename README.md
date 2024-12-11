@@ -24,7 +24,7 @@
 
 <!-- Stats -->
 
-
+<h2> Academic education: </h2>
 <div align="left">
     <a href="https://github.com/LuiFoo">
         <img height="48px" src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby,cs,cpp,py,figma,vscode,visualstudio" alt="Skills" />
