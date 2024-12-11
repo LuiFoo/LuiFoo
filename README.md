@@ -24,19 +24,10 @@
 
 <!-- Stats -->
 
-<h2 align="left">Skills:</h2>
+
 <div align="left">
     <a href="https://github.com/LuiFoo">
-        <img height="48px" src="https://skillicons.dev/icons?i=html,css,js,py,figma,vscode,visualstudio" alt="Skills" />
-    </a>
-</div>
-
-<!-- Learning -->
-
-<h2 align="left">Learning: </h2>
-<div align="left">
-    <a href="https://github.com/LuiFoo">
-        <img height="48px" src="https://skillicons.dev/icons?i=react,nodejs,ruby,cs,cpp" alt="Learning" />
+        <img height="48px" src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby,cs,cpp,py,figma,vscode,visualstudio" alt="Skills" />
     </a>
 </div>
 
