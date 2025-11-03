@@ -27,7 +27,8 @@
 <h2> Languages e Tools: </h2>
 <div align="left">
     <a href="https://github.com/LuiFoo">
-        <img height="48px" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,mongodb,html,css,ts,js,nodejs,cs,cpp,py,figma,vscode,visualstudio" alt="Skills" />
+        <img height="48px" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,mongodb,html,css,ts,js,nodejs,cs,cpp,py," alt="Skills" />
+      <img height="48px" src="https://skillicons.dev/icons?i=figma,vscode,visualstudio" alt="Skills" />
     </a>
 </div>
 
