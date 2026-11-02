@@ -1,5 +1,4 @@
-
-<h1 align="left">Hello, &lt; developers /&gt;! I am Luiz Guilherme 👋</h1>
+<h1 align="left">Hello &lt; developers /&gt;, I'm Luiz Guilherme 👋</h1>
 
 <h3 align="left">Desenvolvedor Full Stack | Estagiário de Desenvolvimento na FMRP-USP | Estudante de Ciência da Computação</h3>
 
