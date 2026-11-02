@@ -1,12 +1,13 @@
-<h1 align="left">Hello &lt; developers /&gt;, I'm Luiz Guilherme 👋</h1>
 
-<h3 align="left">Desenvolvedor Full Stack | Estagiário de Desenvolvimento na FMRP-USP | Estudante de Ciência da Computação</h3>
+<h1 align="left">Olá, &lt; developers /&gt;! Eu sou Luiz Guilherme 👋</h1>
 
-Sou estudante de **Ciência da Computação no Centro Universitário Barão de Mauá**, com experiência prática no desenvolvimento de aplicações web Full Stack.
+<h3 align="left">Desenvolvedor Full Stack | Estagiário de Desenvolvimento na FMRP-USP</h3>
 
-Trabalho com **JavaScript, TypeScript, React, Next.js e Node.js**, além de tecnologias como MongoDB, PostgreSQL e Docker.
+Sou estudante de **Ciência da Computação no Centro Universitário Barão de Mauá**, com experiência prática no desenvolvimento de aplicações web e soluções para necessidades reais.
 
-Atualmente, sou **Estagiário de Desenvolvimento de Software na FMRP-USP (Universidade de São Paulo)**, atuando com **PHP, Laravel e SQL**. Anteriormente, trabalhei na área de Infraestrutura de TI da mesma instituição.
+Trabalho com **JavaScript, TypeScript, React, Next.js e Node.js**, além de MongoDB, PostgreSQL e Docker.
+
+Atualmente, atuo como **Estagiário de Desenvolvimento de Software na FMRP-USP (Universidade de São Paulo)**, com foco em **PHP, Laravel e SQL**. Anteriormente, trabalhei na área de Infraestrutura de TI da mesma instituição.
 
 🎯 **Aberto a oportunidades como Desenvolvedor Júnior ou Estagiário em Desenvolvimento de Software.**
 
@@ -16,17 +17,17 @@ Atualmente, sou **Estagiário de Desenvolvimento de Software na FMRP-USP (Univer
 
 ### 📦 Sistema de Controle de Estoque — FMRP-USP
 
-Aplicação Full Stack desenvolvida para a Seção de Informática da FMRP-USP, atualmente em produção.
+Sistema Full Stack desenvolvido para a Seção de Informática da FMRP-USP, atualmente em produção.
 
-- Gerenciamento de estoque e materiais
-- Registro de entradas, saídas e histórico de movimentações
+- Controle de estoque, entradas e saídas de materiais
+- Histórico de movimentações e rastreabilidade
 - Dashboard, relatórios e monitoramento de estoque
 
 **Tecnologias:** React · Node.js · MongoDB · Docker
 
 ### 📅 Sistema de Gestão para Estúdio de Beleza
 
-Aplicação web em produção para gerenciamento de agendamentos e operações do estabelecimento.
+Aplicação web em produção para automatizar agendamentos e facilitar a gestão do estabelecimento.
 
 - Agendamento online e gerenciamento de serviços
 - Cadastro de clientes e histórico de atendimentos
@@ -34,10 +35,10 @@ Aplicação web em produção para gerenciamento de agendamentos e operações d
 
 ### 🛒 Sistema de Vendas e Delivery — Padaria
 
-Aplicação Full Stack para vendas online e gerenciamento de pedidos.
+Aplicação Full Stack para gerenciamento de vendas e pedidos online.
 
 - Catálogo de produtos e carrinho de compras
-- Autenticação de usuários e painel administrativo
+- Autenticação e painel administrativo
 - Gerenciamento e acompanhamento de pedidos
 
 **Tecnologias:** React · Node.js · MongoDB
@@ -46,13 +47,17 @@ Aplicação Full Stack para vendas online e gerenciamento de pedidos.
 
 <h2>🛠️ Linguagens e Ferramentas</h2>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,react,nextjs,nodejs,laravel,vite,tailwind" height="45" alt="Linguagens e Frameworks" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,mongodb,postgres,py,c,cs" height="45" alt="Linguagens e Bancos de Dados" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode,visualstudio" height="45" alt="Ferramentas de Desenvolvimento" />
-</div>
+**Linguagens**
+
+<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,py,c,cs" height="45" alt="Linguagens de programação" />
+
+**Frameworks e Bibliotecas**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,tailwind,vite" height="45" alt="Frameworks e bibliotecas" />
+
+**Bancos de Dados e Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,git,github,figma,vscode,visualstudio" height="45" alt="Bancos de dados e ferramentas" />
 
 ---
 
@@ -84,22 +89,6 @@ Desenvolvimento e manutenção de aplicações web utilizando PHP, Laravel, SQL 
 *Set/2025 – Out/2026*
 
 Suporte técnico, redes, monitoramento de infraestrutura e desenvolvimento de um sistema de controle de estoque atualmente em produção.
-
----
-
-<h2>⚡ Estatísticas do GitHub</h2>
-
-<div align="left">
-  <a href="https://github.com/LuiFoo">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=LuiFoo&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=1124&exclude_days=Sun%2CSat&border_radius=8&border=1E2228" alt="Sequência de contribuições no GitHub" />
-  </a>
-  <a href="https://github.com/LuiFoo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiFoo&layout=compact&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228" alt="Linguagens mais utilizadas" />
-  </a>
-  <a href="https://github.com/LuiFoo">
-    <img src="https://github-readme-stats-mu-red-43.vercel.app/api?username=LuiFoo&count_private=true&show_icons=true&theme=transparent&card_width=1124&border_radius=8&border_color=1E2228&custom_title=STATS" alt="Estatísticas do GitHub" />
-  </a>
-</div>
 
 ---
 
