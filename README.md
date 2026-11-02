@@ -2,12 +2,6 @@
 
 <h1 align="left">Hello, &lt; developers /&gt;! I'm Luiz Guilherme 👋</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="Cobrinha animada das contribuições do GitHub" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
 ### Desenvolvedor Full Stack | Estagiário de Desenvolvimento na FMRP-USP
 
 Sou estudante de **Ciência da Computação no Centro Universitário Barão de Mauá**, com experiência prática no desenvolvimento de aplicações web e soluções para necessidades reais.
@@ -18,7 +12,13 @@ Atualmente, atuo como **Estagiário de Desenvolvimento de Software na FMRP-USP (
 
 🎯 **Aberto a oportunidades como Desenvolvedor Júnior ou Estagiário em Desenvolvimento de Software.**
 
----
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobrinha animada das contribuições do GitHub" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 
 <h2>🚀 Projetos em Destaque</h2>
 
