@@ -1,7 +1,14 @@
 
-<h1 align="left">Olá, &lt; developers /&gt;! Eu sou Luiz Guilherme 👋</h1>
 
-<h3 align="left">Desenvolvedor Full Stack | Estagiário de Desenvolvimento na FMRP-USP</h3>
+<h1 align="left">Hello, &lt; developers /&gt;! I'm Luiz Guilherme 👋</h1>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobrinha animada das contribuições do GitHub" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+### Desenvolvedor Full Stack | Estagiário de Desenvolvimento na FMRP-USP
 
 Sou estudante de **Ciência da Computação no Centro Universitário Barão de Mauá**, com experiência prática no desenvolvimento de aplicações web e soluções para necessidades reais.
 
